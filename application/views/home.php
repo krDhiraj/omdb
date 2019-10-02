@@ -11,7 +11,7 @@
                 font-family: 'Roboto', sans-serif;
             }
             .main-section{
-                background-color: #f6ab36;text-align: center; padding: 0px 15px;height:100vh
+                background-color: #f6ab36;text-align: center; padding: 0px 15px;height:100vh;min-height: 550px
             }
             .main-section .logo{
                 margin: 0 auto;padding-top: 85px;
